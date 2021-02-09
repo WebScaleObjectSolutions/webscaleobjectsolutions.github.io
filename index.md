@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+---
+title: eComCloud Object Solutions
+showTitle: false
+feature_text: |
+  ## eComCloud Object Solutions
+  We build the finest object-oriented solutions for the age of cloud.
+feature_image: "assets/clouds.jpg"
+---
 
-You can use the [editor on GitHub](https://github.com/WebScaleObjectSolutions/webscaleobjectsolutions.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Who We Are
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+eComCloud offers solutions built to enterprise-ready standards and designed
+carefully according to software engineering best-practice. The eComCloud
+philosophy is to combine two great traditions of software: Object-Oriented
+Programming and the UNIX Way.
 
-### Markdown
+>Focus on just messaging - and realize that a good metasystem can
+>late bind the various 2nd level architectures used in objects.
+> -- <cite>Alan Kay</cite>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+>This is the Unix philosophy: Write programs that do one thing and do it well.
+>Write programs to work together. Write programs to handle text streams,
+>because that is a universal interface.
+> -- <cite>Peter H. Salus</cite>
 
-```markdown
-Syntax highlighted code block
+<p><div style="overflow: auto;">
+<h2>eComInit</h2>
 
-# Header 1
-## Header 2
-### Header 3
+<div><img src="assets/eComInit.png" style="float: right; padding-left 2%;" width="30%"></div>
 
-- Bulleted
-- List
+Expected release: Late 2021.
 
-1. Numbered
-2. List
+The first init system designed from the ground up for the age of cloud. When it
+comes to service availability, there is no alternative which can hope to match
+eComInit. With the flexible Service Object Model at your disposal, any service
+regardless of semantics may benefit from the assurances eComInit provides. And
+if you're a systemd shop, you'll enjoy the eComInit Subsystem for SystemD
+Applications - which provides a libsystemd implementation and unit-file
+upgrade to eComInit manifests.
 
-**Bold** and _Italic_ and `Code` text
+</div></p>
 
-[Link](url) and ![Image](src)
-```
+<p><div style="overflow: auto;">
+<h2>e.UX</h2>
+<img src="assets/e-ux.png" style="float: left; padding-right: 2%;" width="30%">
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Expected release: 2022.
 
-### Jekyll Themes
+e.UX is our dependable operating system, directly derived from the original
+AT&T UNIX<sup>&reg;</sup>. When there is no room to compromise on security and
+reliability, e.UX gets the job done. Built on the solid foundations of
+FreeBSD<sup>&reg;</sup>, extensive software and hardware support is ready from
+first install, and the Linux<sup>&reg;</sup> Jails functionality lets
+Linux<sup>&reg;</sup> apps run unmodified.
+</div></p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WebScaleObjectSolutions/webscaleobjectsolutions.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p></p>
 
-### Support or Contact
+## Open Systems
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We believe in open systems. That means more than bundling an inscrutable ball
+of source code to our products. It means that we respect standards to the
+highest degree, and where none exist, we create them in such a way as to make
+their reimplementation simple. By this we protect our users' freedom of choice;
+eComCloud aims to be a vendor of choice, not of compulsion.
