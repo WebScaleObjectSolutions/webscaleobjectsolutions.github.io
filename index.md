@@ -40,6 +40,7 @@ upgrade to eComInit manifests.
 
 </div></p>
 
+<!---
 <p><div style="overflow: auto;">
 <h2>e.UX</h2>
 <img src="assets/e-ux.png" style="float: left; padding-right: 2%;" width="30%">
@@ -53,6 +54,7 @@ FreeBSD<sup>&reg;</sup>, extensive software and hardware support is ready from
 first install, and the Linux<sup>&reg;</sup> Jails functionality lets
 Linux<sup>&reg;</sup> apps run unmodified.
 </div></p>
+-->
 
 <p></p>
 
